@@ -1,0 +1,38 @@
+.menu{
+    position: absolute;
+width: 1440px;
+height: 267px;
+left: 0px;
+top: 0px;
+
+background: #1F3CD4;
+}
+.menu-texto{
+        
+position: absolute;
+width: 177px;
+height: 125px;
+left: 551px;
+top: 112px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 125px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.cabecalho{
+    
+position: absolute;
+width: 1440px;
+height: 373px;
+left: 0px;
+top: 267px;
+
+background: linear-gradient(180deg, #1F3CD4 0%, #D42A1F 19.79%, rgba(227, 206, 15, 0.55) 100%);
+}
